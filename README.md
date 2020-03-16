@@ -1,5 +1,5 @@
 # Design.css
 
-#Support Discord : https://discord.gg/ewrPBBx
+# Support Discord : https://discord.gg/ewrPBBx
 
 Depedencies: vRP
